@@ -1,0 +1,38 @@
+
+
+.form{
+    background-color: #003e5c;
+    border: 2px solid #ecae00;
+    border-radius: 5px;
+    height: 500px;
+    width: 550px;
+    margin: 60px auto;
+    padding: 20px;
+    /* height: 600px; */
+}
+
+ .form-body{
+    text-align: center;
+    padding: 70px 55px;
+}
+
+.form-body > *{
+    padding: 16px;
+}
+
+.form__label{
+    width: 40%;
+}
+
+.form_input{
+    width: 100%;
+    height: 100px;
+}
+
+.footer_submit{
+    text-align: center;
+    border: 2px solid  #ecae00;
+    border-radius: 2px;
+    /* padding-left: ; */
+     display: inline-table; 
+} 

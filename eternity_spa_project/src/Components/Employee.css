@@ -1,0 +1,91 @@
+
+.Employee {
+  height: 100%;
+  background-color: #242424;
+ /* color:  #ecae00; */
+}
+
+.spaces {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  letter-spacing: 5px;
+  line-height: 1.8;
+}
+
+.img-1 {
+    margin: 25px;
+    padding: 15px; 
+    border-radius: 10%;
+    width: 600px;
+    height: 500px;
+}
+
+/* <<<<<<< HEAD
+ .img-1 {
+   margin: 25px;
+   padding: 15px; 
+   border-radius: 10%;
+   width: 800px;
+   height: 800px;
+=======
+.grid1 {
+  margin: 0px;
+  padding: 25px;
+>>>>>>> 9e814e84c9b9b2b5db19bcd97d917edacdcda1f5
+} */
+
+div .bio-box {
+ box-sizing: border-box;
+ margin: 15px;
+ width: 75%;
+ padding: 10px;
+ -moz-box-sizing: border-box;
+ -webkit-box-sizing: border-box;
+ color: #ecae00;
+ border: 2px solid #ecae00;
+}
+
+div .education {
+  box-sizing: border-box;
+  margin: 15px;
+  width: 75%;
+  padding: 10px;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  color: #ecae00;
+  border: 2px solid #ecae00;
+}
+
+.grid2 {
+  margin: 0px;
+  padding: 25px;
+  background-color: #ecae00;
+  color: #242424;
+}
+
+.about-box {
+ box-sizing: border-box;
+ padding: 20px;
+ -moz-box-sizing: border-box;
+ -webkit-box-sizing: border-box;
+ border: 2px solid #242424;
+ color: #242424;
+}
+
+ .work-box {
+ box-sizing: border-box;
+ padding: 20px;
+ -moz-box-sizing: border-box;
+ -webkit-box-sizing: border-box;
+ border: 2px solid #242424;
+ color: #242424;
+}
+
+.work-box ul {
+  margin: 15px;
+  padding: 10px;
+}
+
+
+
+
